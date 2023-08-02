@@ -3,6 +3,6 @@
 # All rights reserved                                                         #
 ###############################################################################
 server:
-  port: 8043
+  port: 8080
   servlet:
     context-path: /test
